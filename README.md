@@ -2,8 +2,15 @@
 
 Use Passport to authenticate users locally, with Facebook, Twitter, and Google.
 
-Source:
-https://scotch.io/tutorials/easy-node-authentication-setup-and-local#conclusion
+https://github.com/scotch-io/easy-node-authentication
+
+## The Tutorials
+
+- [Getting Started and Local Authentication](http://scotch.io/tutorials/easy-node-authentication-setup-and-local)
+- [Facebook](http://scotch.io/tutorials/easy-node-authentication-facebook)
+- [Twitter](http://scotch.io/tutorials/easy-node-authentication-twitter)
+- [Google](http://scotch.io/tutorials/easy-node-authentication-google)
+- [Linking All Accounts Together](http://scotch.io/tutorials/easy-node-authentication-linking-all-accounts-together)
 
 ## Local install instructions
 
